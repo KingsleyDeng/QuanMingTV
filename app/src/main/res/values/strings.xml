@@ -87,4 +87,9 @@
     <string name="csdn_">CSDN:</string>
     <string name="github_">Github:</string>
 
+    <string name="author_jenly">Jenly</string>
+    <string name="email_jenly"><u>jenly1314@gmail.com</u></string>
+    <string name="csdn_jenly"><u>http://blog.csdn.net/jenly121</u></string>
+    <string name="github_jenly"><u>https://github.com/jenly1314</u></string>
+
 </resources>

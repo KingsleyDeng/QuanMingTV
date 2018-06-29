@@ -15,6 +15,8 @@ public class CategoryPresenter extends BasePresenter<ICategoryView> {
     }
 
     public void getAllCategories(){
+        getView().showProgress();
+
 
     }
 
